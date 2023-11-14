@@ -1,0 +1,31 @@
+body {
+            font-family: Arial, sans-serif;
+            background:url(../imagens/096g2vb4j7w91.jpg);
+            background-size: cover;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .container {
+            text-align: center;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 30px;
+            box-shadow: 10px rgba(10, 10, 10, 0.685);
+            border: 1px solid black;
+            width: 50%;
+            margin: auto;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #ddd;
+        }
